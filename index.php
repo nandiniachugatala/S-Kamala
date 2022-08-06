@@ -93,7 +93,7 @@
                         <img src="sk3.jpg" alt="" class="img-fluid">
                         
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6" align="justify">
                         <p class="h4 fw-bold">  <br>
                             <br>   Specialist in Kid'S  &  Girl's Western Dresses.</p> <br>
                         <p class="lead text-align-jusitify " >Hello, We are speciaist in kid's and girl's western dresses making and manufacturing. Our range is widely acclaimed first-class features like quality, durable, efficient perfectness and so on. All the products we offer conformto best quality standards and accomplish the complete demand of customers. Our products are using in various places. The team we have has more than 4 years of working experiance in this industry and stay in close coordination with customers to understand their requirements and offer the line accordingly. We have different categorized dresses for kids. S kamala Garments is offering children readymade retailers. </p>
